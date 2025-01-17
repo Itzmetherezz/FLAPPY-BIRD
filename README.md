@@ -25,7 +25,7 @@
 - Set up a loop for the Pipes and the Clouds to make te game infinitely long.
 
 
-Credits to Moot for the assets and inspiration.
+Credits to Moo ICT for the assets and inspiration.
 
 
 
